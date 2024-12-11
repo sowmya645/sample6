@@ -8,9 +8,10 @@ if(i%j==0)
 {c=1;
 break;
 }
-}
+
 if(c==0){
 System.out.print(i);
+}
 }
 }
 }
